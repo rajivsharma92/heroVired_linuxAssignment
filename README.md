@@ -1,7 +1,9 @@
 # heroVired_linuxAssignment
+IMPORTANT: Before executing any script use chmod u+x <file_name> to make it executable file
+
 This repo contain all the assignment related to bash:
 
-1. Create a Directory Structure:
+1. Create a Directory Structure: To use this script use root password to do this.  for eg sudo ./create_directory.sh
 
 Write a script that creates the following directory structure:
 
